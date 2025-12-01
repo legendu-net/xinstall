@@ -1,4 +1,4 @@
-# Please use [icon](https://github.com/legendu-net/icon) instead.
+# Please use [icon](https://github.com/legendu-net/icon) instead!
 
 # [xinstall](https://github.com/legendu-net/xinstall): Easy Cross-platform Installation and Configuration of Apps
 
